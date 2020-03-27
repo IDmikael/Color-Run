@@ -15,7 +15,7 @@ You can find working apk for Android in Build directory. All source files are un
 
 ## Screenshots
 ### Main menu
-![](https://github.com/IDmikael/Color-Run/blob/master/Screenshots/MainMenu.png)
+![](https://github.com/IDmikael/Color-Run/blob/master/Screenshots/MainMenu.jpg)
 
 ### Gameplay
 
@@ -24,5 +24,5 @@ You can find working apk for Android in Build directory. All source files are un
 ![](https://github.com/IDmikael/Color-Run/blob/master/Screenshots/Screenshot_2020-03-27-13-50-19.png)  |  ![](https://github.com/IDmikael/Color-Run/blob/master/Screenshots/Screenshot_2020-03-27-13-50-38.png)
 
 ### Game Over menu
-![](https://github.com/IDmikael/Color-Run/blob/master/Screenshots/GameOverMenu.png)
+![](https://github.com/IDmikael/Color-Run/blob/master/Screenshots/GameOverMenu.jpg)
 
