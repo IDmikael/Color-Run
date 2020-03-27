@@ -1,4 +1,0 @@
-#Fri Mar 27 13:25:01 EET 2020
-base.0=E\:\\Dev\\Color Run\\Temp\\gradleOut\\launcher\\build\\intermediates\\transforms\\dexMerger\\release\\0
-path.0=classes.dex
-renamed.0=classes.dex
